@@ -1,2 +1,6 @@
 numpy
 numpy_indexed
+django
+matplotlib
+mpld3
+Jinja2
