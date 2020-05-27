@@ -1,9 +1,11 @@
-Čia įkelsiu tris laboratorinius darbus iš diferencialinių lygčių. Jie yra programuoti naudojant Python ir Jupyter Notebook aplinką, tačiau naršyklėje šių failų peržiūra
-ne visada sėkminga (gali veikti perkrovus). Tuo atveju siūlau peržiūrėti šiuos failus .pdf pavidale.
+Čia įkelsiu tris laboratorinius darbus iš diferencialinių lygčių. Jie yra programuoti naudojant Python su Jupyter Notebook aplinka ir patalpinti GitHube.
 
-### Pirmas laboratorinis darbas 
-[Nuoroda į Jupyter Notebook](diflygtys1.ipynb)
-[Nuoroda į Jupyter Notebook](diflygtys1.pdf)
-### Antras laboratorinis darbas 
-[Nuoroda į Jupyter Notebook](diflygtys2.ipynb)
-[Nuoroda į Jupyter Notebook](diflygtys2.pdf)
+[Pirmas laboratorinis darbas](diflygtys1_short.ipynb)
+
+[Antras laboratorinis darbas](diflygtys2.ipynb)
+
+## Svarbu!
+
+Didesni Jupyter Notebook failai kažkodėl ne visada sėkmingai atvaizduojami GitHube. 
+
+Tuo atveju reikėtų juos peržiūrėti puslapyje [https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/) įkeliant jų internetinius adresus.
