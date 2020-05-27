@@ -2,7 +2,7 @@
 
 [Pirmas laboratorinis darbas](https://nbviewer.jupyter.org/github/loijord/programavimas_python/blob/master/diferencialinės%20lygtys/diflygtys1_short.ipynb)
 
-[Antras laboratorinis darbas](diflygtys2.ipynb)
+[Antras laboratorinis darbas](https://nbviewer.jupyter.org/github/loijord/programavimas_python/blob/master/diferencialinės%20lygtys/diflygtys2.ipynb)
 
 ## Svarbu!
 
