@@ -4,4 +4,3 @@ django
 matplotlib
 mpld3
 Jinja2
-spatialite
