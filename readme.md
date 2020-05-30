@@ -1,0 +1,1 @@
+Šiuo metu pas mane pilnai veikia užduotys 1, 2 ir 3, o 4 ir 5 užduotis dar ruošiu.
