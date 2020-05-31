@@ -1,1 +1,1 @@
-Šiuo metu pas mane pilnai veikia užduotys 1, 2 ir 3, o 4 ir 5 užduotis dar ruošiu.
+Šiuo metu pas mane pilnai veikia užduotys 1, 2 ir 3, o 5 užduotis neužbaigta. Pasidariau tik balsavimą su variantais, bet be registracijos. Pritrūko laiko.
